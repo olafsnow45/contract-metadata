@@ -1,11 +1,4 @@
 {
-  "0xd0b3462481c33f63a288cd1923e2a261ee65b4ff": {
-    "name": "EGO Badge",
-    "logo": "ego_badge.png",
-    "erc20": true,
-    "symbol": "EGO",
-    "decimals": 0
-  },
   "0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0": {
     "name": "EOS",
     "logo": "eos-logo.jpeg",
@@ -181,7 +174,7 @@
     "symbol": "PLU",
     "decimals": 18
   },
-  "0x48c80F1f4D53D5951e5D5438B54Cba84f29F32a5": {
+  "0xE94327D07Fc17907b4DB788E5aDf2ed424adDff6": {
     "name": "Reputation",
     "logo": "augur_logo.png",
     "erc20": true,
