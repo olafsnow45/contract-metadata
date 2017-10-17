@@ -1,4 +1,11 @@
 {
+  "0xCed1A8529125D1bD06B54a7B01210df357D00885": {
+    "name": "Too Real Badge",
+    "logo": "too-real.jpg",
+    "erc20": true,
+    "symbol": "TRL",
+    "decimals": 0
+  },
   "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6": {
     "name": "Dentacoin",
     "logo": "Dentacoin.png",
@@ -260,13 +267,7 @@
     "decimals": 18,
     "symbol": "CAG"
   },
-  "0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0": {
-    "name": "CanYaCoin",
-    "logo": "CanYa.svg",
-    "erc20": true,
-    "decimals": 6,
-    "symbol": "CAN"
-  },
+
 
   
   "0x6090A6e47849629b7245Dfa1Ca21D94cd15878Ef": {
