@@ -1,4 +1,11 @@
 {
+  "0x2604FA406Be957E542BEb89E6754fCdE6815e83f": {
+    "name": "Playkey Token",
+    "logo": "playkey.svg",
+    "erc20": true,
+    "symbol": "PKT",
+    "decimals": 18
+  },
     "0x4F4f0Db4de903B88f2B1a2847971E231D54F8fd3": {
     "name": "Geens Platform Token",
     "logo": "gee-icon.svg",
@@ -257,17 +264,6 @@
     "erc20": true,
     "symbol": "GNT",
     "decimals": 18
-  },
-  "0x6888a16eA9792c15A4DCF2f6C623D055c8eDe792": {
-    "name": "Spectiv Signal Token",
-    "logo": "spectiv.svg",
-    "erc20": true,
-    "symbol": "SIG",
-    "decimals": 18
-  },
-  "0xC526560cf6Ab1755a457248CB9E8669ec7F4B78C": {
-    "name": "Spectiv Crowdsale",
-    "logo": "spectiv.svg"
   },
   "0x617b3f8050a0BD94b6b1da02B4384eE5B4DF13F4": {
     "name": "MetaMark",
