@@ -251,19 +251,23 @@
     "symbol": "REP",
     "decimals": 18
   },
-  "0xd0929d411954c47438dc1d871dd6081F5C5e149c": {
-    "name": "Refereum",
-    "logo": "rfr.svg",
-    "erc20": true,
-    "symbol": "RFR",
-    "decimals": 4
-  },
   "0xa74476443119A942dE498590Fe1f2454d7D4aC0d": {
     "name": "Golem Network Token",
     "logo": "golem.svg",
     "erc20": true,
     "symbol": "GNT",
     "decimals": 18
+  },
+  "0x983f5fee8d2a2db5ca6675a37ea8361d0f66b2cf": {
+    "name": "Spectiv Signal Token",
+    "logo": "spectiv.svg",
+    "erc20": true,
+    "symbol": "SIG",
+    "decimals": 18
+  },
+  "0xea6bf98404e1d10551e45b6275aaa942c136d3b5": {
+    "name": "Spectiv Crowdsale",
+    "logo": "spectiv.svg"
   },
   "0x617b3f8050a0BD94b6b1da02B4384eE5B4DF13F4": {
     "name": "MetaMark",
