@@ -20,6 +20,13 @@
     "symbol": "MOD",
     "decimals": 0
   },
+  "0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB": {
+    "name": "AppCoins",
+    "logo": "appcoins.png",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "APPC"
+  },
     "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d": {
     "name": "Crypto Kitties",
     "logo": "CryptoKitties-Kitty-13733.svg",
@@ -62,11 +69,11 @@
     "symbol": "HGT",
     "decimals": 8
   },
-  "0x7585F835ae2d522722d2684323a0ba83401f32f5": {
-    "name": "HelloGold Gold Backed Token",
-    "logo": "hg_gbt.png",
+  "0xeAb43193CF0623073Ca89DB9B712796356FA7414": {
+    "name": "GOLDX",
+    "logo": "goldx.png",
     "erc20": true,
-    "symbol": "GBT",
+    "symbol": "GOLDX",
     "decimals": 18
   },
   "0x8727c112C712c4a03371AC87a74dD6aB104Af768": {
@@ -325,6 +332,13 @@
     "decimals": 18,
     "symbol": "QTUM"
   },
+    "0x1234567461d3f8Db7496581774Bd869C83D51c93": {
+    "name": "BitClave",
+    "logo": "bitclave.svg",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "CAT"
+  },
   "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3": {
     "name": "Change Coin",
     "logo": "change.png",
@@ -356,6 +370,17 @@
     "erc20": true,
     "symbol": "DIVX",
     "decimals": 18
+  },
+  "0x056017c55aE7AE32d12AeF7C679dF83A85ca75Ff": {
+    "name": "WyvernToken",
+    "logo": "wyvern-logo.svg",
+    "erc20": true,
+    "symbol": "WYV",
+    "decimals": 18
+  },
+  "0x17F68886d00845867C154C912b4cCc506EC92Fc7": {
+    "name": "WyvernDAO",
+    "logo": "wyvern-logo.svg"
   },
   "0xfec0cF7fE078a500abf15F1284958F22049c2C7e": {
     "name": "Maecenas ART Token",
