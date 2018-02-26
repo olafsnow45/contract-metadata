@@ -382,19 +382,15 @@
     "name": "WyvernDAO",
     "logo": "wyvern-logo.svg"
   },
-  "0xf14f06e227C015b398b8069314F4B8d1d7022c9e": {
-    "name": "WyvernExchange",
-    "logo": "wyvern-logo.svg"
-  },
-  "0xa4306692b00795f97010ec7237980141d08c6D56": {
-    "name": "WyvernProxyRegistry",
-    "logo": "wyvern-logo.svg"
-  },
   "0xfec0cF7fE078a500abf15F1284958F22049c2C7e": {
     "name": "Maecenas ART Token",
     "logo": "Maecenas.jpg",
     "erc20": true,
     "symbol": "ART",
     "decimals": 18
+  },
+  "0x2af47a65da8cd66729b4209c22017d6a5c2d2400": {
+    "name": "Gitcoin",
+    "logo": "Gitcoin.png"
   }
 }
