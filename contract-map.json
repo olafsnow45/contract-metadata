@@ -1,28 +1,7 @@
 {
-  "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07": {
-    "name": "OmiseGO",
-    "logo": "omg.jpg",
-    "erc20": true,
-    "symbol": "OMG",
-    "decimals": 18
-  },
-  "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC": {
-    "name": "Storj",
-    "logo": "storj.jpg",
-    "erc20": true,
-    "symbol": "STORJ",
-    "decimals": 8
-  },
-  "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942": {
-    "name": "Decentraland",
-    "logo": "decentraland.png",
-    "erc20": true,
-    "symbol": "MANA",
-    "decimals": 18
-  },
   "0x0F513fFb4926ff82D7F60A05069047AcA295C413": {
     "name": "CrowdstartCoin",
-    "logo": "XSC_Logo.svg",
+    "logo": "XSC Logo.svg",
     "erc20": true,
     "symbol": "XSC",
     "decimals": 18
@@ -48,14 +27,14 @@
     "decimals": 18,
     "symbol": "APPC"
   },
-  "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d": {
+    "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d": {
     "name": "Crypto Kitties",
     "logo": "CryptoKitties-Kitty-13733.svg",
     "erc20": true,
     "symbol": "CK",
     "decimals": 0
   },
-  "0x4F4f0Db4de903B88f2B1a2847971E231D54F8fd3": {
+    "0x4F4f0Db4de903B88f2B1a2847971E231D54F8fd3": {
     "name": "Geens Platform Token",
     "logo": "gee-icon.svg",
     "erc20": true,
@@ -353,7 +332,7 @@
     "decimals": 18,
     "symbol": "QTUM"
   },
-  "0x1234567461d3f8Db7496581774Bd869C83D51c93": {
+    "0x1234567461d3f8Db7496581774Bd869C83D51c93": {
     "name": "BitClave",
     "logo": "bitclave.svg",
     "erc20": true,
@@ -403,19 +382,15 @@
     "name": "WyvernDAO",
     "logo": "wyvern-logo.svg"
   },
-  "0xf14f06e227C015b398b8069314F4B8d1d7022c9e": {
-    "name": "WyvernExchange",
-    "logo": "wyvern-logo.svg"
-  },
-  "0xa4306692b00795f97010ec7237980141d08c6D56": {
-    "name": "WyvernProxyRegistry",
-    "logo": "wyvern-logo.svg"
-  },
   "0xfec0cF7fE078a500abf15F1284958F22049c2C7e": {
     "name": "Maecenas ART Token",
     "logo": "Maecenas.jpg",
     "erc20": true,
     "symbol": "ART",
     "decimals": 18
+  },
+  "0x2af47a65da8CD66729b4209C22017d6A5C2d2400": {
+    "name": "StandardBounties",
+    "logo": "StandardBounties.png"
   }
 }
