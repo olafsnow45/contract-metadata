@@ -1,11 +1,4 @@
 {
-  "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa": {
-    "name": "dutyof.care Token",
-    "logo": "dutyof.care-logo.svg",
-    "erc20": true,
-    "symbol": "VDOC",
-    "decimals": 18
-  },
   "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07": {
     "name": "OmiseGO",
     "logo": "omg.jpg",
@@ -39,6 +32,13 @@
     "logo": "playkey.svg",
     "erc20": true,
     "symbol": "PKT",
+    "decimals": 18
+  },
+  "0xe41d2489571d322189246dafa5ebde1f4699f498": {
+    "name": "0x",
+    "logo": "0x.svg",
+    "erc20": true,
+    "symbol": "ZRX",
     "decimals": 18
   },
   "0x957c30aB0426e0C93CD8241E2c60392d08c6aC8e": {
