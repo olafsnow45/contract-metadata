@@ -34,13 +34,6 @@
     "symbol": "PKT",
     "decimals": 18
   },
-  "0xE41d2489571d322189246DaFA5ebDe1F4699F498": {
-    "name": "0x",
-    "logo": "0x.svg",
-    "erc20": true,
-    "symbol": "ZRX",
-    "decimals": 18
-  },
   "0x957c30aB0426e0C93CD8241E2c60392d08c6aC8e": {
     "name": "Modum Token",
     "logo": "modum.svg",
@@ -424,6 +417,13 @@
     "erc20": true,
     "symbol": "ART",
     "decimals": 18
+  },
+  "0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27": {
+    "name": "Zilliqa",
+    "logo": "zilliqa.svg",
+    "erc20": true,
+    "symbol": "ZIL",
+    "decimals": 12
   },
   "0x2af47a65da8CD66729b4209C22017d6A5C2d2400": {
     "name": "StandardBounties",
