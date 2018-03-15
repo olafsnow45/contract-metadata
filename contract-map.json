@@ -1,4 +1,11 @@
 {
+  "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa": {
+    "name": "dutyof.care Token",
+    "logo": "dutyof.care-logo.svg",
+    "erc20": true,
+    "symbol": "VDOC",
+    "decimals": 18
+  },
   "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07": {
     "name": "OmiseGO",
     "logo": "omg.jpg",
@@ -130,13 +137,6 @@
     "logo": "bcpt.svg",
     "erc20": true,
     "symbol": "BCPT",
-    "decimals": 18
-  },
-  "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0": {
-    "name": "Loom Network Token",
-    "logo": "loom.svg",
-    "erc20": true,
-    "symbol": "LOOM",
     "decimals": 18
   },
   "0xD0b3462481C33F63a288cd1923e2A261EE65b4FF": {
@@ -424,13 +424,6 @@
     "erc20": true,
     "symbol": "ART",
     "decimals": 18
-  },
-  "0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27": {
-    "name": "Zilliqa",
-    "logo": "zilliqa.svg",
-    "erc20": true,
-    "symbol": "ZIL",
-    "decimals": 12
   },
   "0x2af47a65da8CD66729b4209C22017d6A5C2d2400": {
     "name": "StandardBounties",
