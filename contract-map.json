@@ -1,10 +1,10 @@
 {
-  "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1": {
-    "name": "PolySwarm Nectar",
-    "logo": "polyswarm_nectar.svg",
+  "0x0D262e5dC4A06a0F1c90cE79C7a60C09DfC884E4": {
+    "name": "JET8 Token",
+    "logo": "J8T.svg",
     "erc20": true,
-    "symbol": "NCT",
-    "decimals": 18
+    "symbol": "J8T",
+    "decimals": 8
   },
   "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07": {
     "name": "OmiseGO",
