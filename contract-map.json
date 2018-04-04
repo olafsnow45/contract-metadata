@@ -1,11 +1,4 @@
 {
-  "0x0D262e5dC4A06a0F1c90cE79C7a60C09DfC884E4": {
-    "name": "JET8 Token",
-    "logo": "J8T.svg",
-    "erc20": true,
-    "symbol": "J8T",
-    "decimals": 8
-  },
   "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07": {
     "name": "OmiseGO",
     "logo": "omg.jpg",
@@ -145,6 +138,13 @@
     "erc20": true,
     "symbol": "BCPT",
     "decimals": 18
+  },
+  "0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A": {
+    "name": "Sapien Network Token",
+    "logo": "spn.svg",
+    "erc20": true,
+    "symbol": "SPN",
+    "decimals": 6
   },
   "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0": {
     "name": "Loom Network Token",
