@@ -139,13 +139,6 @@
     "symbol": "BCPT",
     "decimals": 18
   },
-  "0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A": {
-    "name": "Sapien Network Token",
-    "logo": "spn.svg",
-    "erc20": true,
-    "symbol": "SPN",
-    "decimals": 6
-  },
   "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0": {
     "name": "Loom Network Token",
     "logo": "loom.svg",
@@ -312,6 +305,13 @@
     "logo": "logo-maker-4.svg",
     "erc20": true,
     "symbol": "MKR",
+    "decimals": 18
+  },
+  "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359": {
+    "name": "DAI",
+    "logo": "dai.svg",
+    "erc20": true,
+    "symbol": "DAI",
     "decimals": 18
   },
   "0x0D8775F648430679A709E98d2b0Cb6250d2887EF": {
