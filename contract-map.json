@@ -1,4 +1,18 @@
 {
+  "0xBC86727E770de68B1060C91f6BB6945c73e10388": {
+    "name": "Ink Protocol",
+    "logo": "ink_protocol.svg",
+    "erc20": true,
+    "symbol": "XNK",
+    "decimals": 18
+  },
+  "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1": {
+    "name": "PolySwarm Nectar",
+    "logo": "polyswarm_nectar.svg",
+    "erc20": true,
+    "symbol": "NCT",
+    "decimals": 18
+  },
   "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa": {
     "name": "dutyof.care Token",
     "logo": "dutyof.care-square.png",
@@ -68,13 +82,6 @@
     "erc20": true,
     "symbol": "CK",
     "decimals": 0
-  },
-  "0xE477292f1B3268687A29376116B0ED27A9c76170": {
-    "name": "Herocoin",
-    "logo": "herocoin_logo.png",
-    "erc20": true,
-    "symbol": "PLAY",
-    "decimals": 18
   },
   "0x4F4f0Db4de903B88f2B1a2847971E231D54F8fd3": {
     "name": "Geens Platform Token",
