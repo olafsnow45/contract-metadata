@@ -90,13 +90,6 @@
     "decimals": 18,
     "symbol": "APPC"
   },
-  "0x0DB8D8b76BC361bAcbB72E2C491E06085A97Ab31": {
-    "name": "IQeon",
-    "logo": "iqeon.svg",
-    "erc20": true,
-    "decimals": 18,
-    "symbol": "IQN"
-  },
   "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d": {
     "name": "Crypto Kitties",
     "logo": "CryptoKitties-Kitty-13733.svg",
@@ -391,7 +384,7 @@
     "symbol": "PLU",
     "decimals": 18
   },
-  "0xE94327D07Fc17907b4DB788E5aDf2ed424adDff6": {
+  "0x1985365e9f78359a9B6AD760e32412f4a445E862": {
     "name": "Reputation",
     "logo": "augur_logo.png",
     "erc20": true,
