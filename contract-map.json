@@ -13,13 +13,6 @@
     "symbol": "XNK",
     "decimals": 18
   },
-  "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8": {
-    "name": "ELY Token",
-    "logo": "ely.png",
-    "erc20": true,
-    "symbol": "ELY",
-    "decimals": 18
-  },
   "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1": {
     "name": "PolySwarm Nectar",
     "logo": "polyswarm_nectar.svg",
@@ -96,6 +89,20 @@
     "erc20": true,
     "decimals": 18,
     "symbol": "APPC"
+  },
+  "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F": {
+    "name": "Havven",
+    "logo": "havven.png",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "HAV"
+  },
+  "0x0DB8D8b76BC361bAcbB72E2C491E06085A97Ab31": {
+    "name": "IQeon",
+    "logo": "iqeon.svg",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "IQN"
   },
   "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d": {
     "name": "Crypto Kitties",
@@ -526,6 +533,13 @@
   "0x2af47a65da8CD66729b4209C22017d6A5C2d2400": {
     "name": "StandardBounties",
     "logo": "StandardBounties.png"
+  },
+  "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
+    "name": "Wrapped Ether",
+    "logo": "weth.png",
+    "erc20": true,
+    "symbol": "WETH",
+    "decimals": 18
   },
   "0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265": {
     "name": "NANJCOIN",
