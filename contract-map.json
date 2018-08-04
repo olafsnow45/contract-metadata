@@ -27,13 +27,6 @@
     "symbol": "VDOC",
     "decimals": 18
   },
-  "0x168296bb09e24A88805CB9c33356536B980D3fC5": {
-    "name": "Rhoc",
-    "logo": "rchain.png",
-    "erc20": true,
-    "symbol": "RHOC",
-    "decimals": 8
-  },
   "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07": {
     "name": "OmiseGO",
     "logo": "omg.jpg",
@@ -260,7 +253,7 @@
   },
   "0x5c543e7AE0A1104f78406C340E9C64FD9fCE5170": {
     "name": "vSlice",
-    "logo": "",
+    "logo": "vslice.png",
     "erc20": true,
     "symbol": "vSlice",
     "decimals": 0
@@ -295,7 +288,7 @@
   },
   "0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c": {
     "name": "Edgeless",
-    "logo": "",
+    "logo": "edgeless.jpg",
     "erc20": true,
     "symbol": "EDG",
     "decimals": 0
@@ -323,7 +316,7 @@
   },
   "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B": {
     "name": "Trustcoin",
-    "logo": "",
+    "logo": "trustcoin.jpg",
     "erc20": true,
     "symbol": "TRST",
     "decimals": 6
@@ -547,6 +540,13 @@
   "0x2af47a65da8CD66729b4209C22017d6A5C2d2400": {
     "name": "StandardBounties",
     "logo": "StandardBounties.png"
+  },
+  "0xF03f8D65BaFA598611C3495124093c56e8F638f0": {
+    "name": "Viewly",
+    "logo": "viewly.svg",
+    "erc20": true,
+    "symbol": "VIEW",
+    "decimals": 18
   },
   "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
     "name": "Wrapped Ether",
