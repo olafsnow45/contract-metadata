@@ -90,13 +90,6 @@
     "decimals": 18,
     "symbol": "APPC"
   },
-  "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F": {
-    "name": "Havven",
-    "logo": "havven.png",
-    "erc20": true,
-    "decimals": 18,
-    "symbol": "HAV"
-  },
   "0x57Ab1E02fEE23774580C119740129eAC7081e9D3": {
     "name": "nUSD",
     "logo": "havven_nusd.png",
@@ -368,7 +361,7 @@
     "logo": "DGD.png",
     "erc20": true,
     "symbol": "DGD",
-    "decimals": 0
+    "decimals": 9
   },
   "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2": {
     "name": "Maker",
@@ -541,13 +534,6 @@
     "name": "StandardBounties",
     "logo": "StandardBounties.png"
   },
-  "0xF03f8D65BaFA598611C3495124093c56e8F638f0": {
-    "name": "Viewly",
-    "logo": "viewly.svg",
-    "erc20": true,
-    "symbol": "VIEW",
-    "decimals": 18
-  },
   "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
     "name": "Wrapped Ether",
     "logo": "weth.png",
@@ -560,13 +546,6 @@
     "logo": "nanjcoin.svg",
     "erc20": true,
     "symbol": "NANJ",
-    "decimals": 8
-  },
- "0xb6ed7644c69416d67b522e20bc294a9a9b405b31": {
-    "name": "0xBitcoin Token",
-    "logo": "0xbitcoin.png",
-    "erc20": true,
-    "symbol": "0xBTC",
     "decimals": 8
   }
 }
