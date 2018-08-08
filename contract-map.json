@@ -20,13 +20,6 @@
     "symbol": "NCT",
     "decimals": 18
   },
-	"0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD": {
-		"name": "BOX Token",
-		"logo": "box_token.png",
-		"erc20": true,
-		"symbol": "BOX",
-		"decimals": 18
-	},
   "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa": {
     "name": "dutyof.care Token",
     "logo": "dutyof.care-square.png",
@@ -548,6 +541,13 @@
     "name": "StandardBounties",
     "logo": "StandardBounties.png"
   },
+  "0xF03f8D65BaFA598611C3495124093c56e8F638f0": {
+    "name": "Viewly",
+    "logo": "viewly.svg",
+    "erc20": true,
+    "symbol": "VIEW",
+    "decimals": 18
+  },
   "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
     "name": "Wrapped Ether",
     "logo": "weth.png",
@@ -560,6 +560,13 @@
     "logo": "nanjcoin.svg",
     "erc20": true,
     "symbol": "NANJ",
+    "decimals": 8
+  },
+ "0xb6ed7644c69416d67b522e20bc294a9a9b405b31": {
+    "name": "0xBitcoin Token",
+    "logo": "0xbitcoin.png",
+    "erc20": true,
+    "symbol": "0xBTC",
     "decimals": 8
   }
 }
