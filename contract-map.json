@@ -90,13 +90,6 @@
     "decimals": 18,
     "symbol": "APPC"
   },
-  "0xdB25f211AB05b1c97D595516F45794528a807ad8": {
-    "name": "STASIS EURS Token",
-    "logo": "stasis-eurs.svg",
-    "erc20": true,
-    "decimals": 2,
-    "symbol": "EURS"
-  },
   "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F": {
     "name": "Havven",
     "logo": "havven.png",
@@ -375,7 +368,7 @@
     "logo": "DGD.png",
     "erc20": true,
     "symbol": "DGD",
-    "decimals": 9
+    "decimals": 0
   },
   "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2": {
     "name": "Maker",
@@ -567,6 +560,13 @@
     "logo": "nanjcoin.svg",
     "erc20": true,
     "symbol": "NANJ",
+    "decimals": 8
+  },
+ "0xB6eD7644C69416d67B522e20bC294A9a9B405B31": {
+    "name": "0xBitcoin Token",
+    "logo": "0xbitcoin.png",
+    "erc20": true,
+    "symbol": "0xBTC",
     "decimals": 8
   }
 }
