@@ -13,6 +13,20 @@
     "symbol": "XNK",
     "decimals": 18
   },
+  "0x4ceda7906a5ed2179785cd3a40a69ee8bc99c466": {
+    "name": "Aion Network",
+    "logo": "Aion.png",
+    "erc20": true,
+    "symbol": "AION",
+    "decimals": 8
+  },
+  "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8": {
+    "name": "ELY Token",
+    "logo": "ely.png",
+    "erc20": true,
+    "symbol": "ELY",
+    "decimals": 18
+  },
   "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1": {
     "name": "PolySwarm Nectar",
     "logo": "polyswarm_nectar.svg",
@@ -616,6 +630,13 @@
     "logo": "snt.svg",
     "erc20": true,
     "symbol": "SNT",
+    "decimals": 18
+  },
+  "0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98": {
+    "name": "LikeCoin",
+    "logo": "like.svg",
+    "erc20": true,
+    "symbol": "LIKE",
     "decimals": 18
   }
 }
