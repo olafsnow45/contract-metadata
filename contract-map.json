@@ -304,7 +304,7 @@
     "name": "vSlice",
     "logo": "vslice.png",
     "erc20": true,
-    "symbol": "vSlice",
+    "symbol": "VSL",
     "decimals": 0
   },
   "0xFf3519eeeEA3e76F1F699CCcE5E23ee0bdDa41aC": {
@@ -625,18 +625,18 @@
     "symbol": "SNT",
     "decimals": 18
   },
+  "0x42d6622deCe394b54999Fbd73D108123806f6a18": {
+    "name": "SPANK",
+    "logo": "SPANK.png",
+    "erc20": true,
+    "symbol": "SPANK",
+    "decimals": 18
+  },
   "0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98": {
     "name": "LikeCoin",
     "logo": "like.svg",
     "erc20": true,
     "symbol": "LIKE",
-    "decimals": 18
-  },
-  "0xca2796f9f61dc7b238aab043971e49c6164df375": {
-    "name": "YGGDRASH YEED Token",
-    "logo": "yggdrash.svg",
-    "erc20": true,
-    "symbol": "YEED",
     "decimals": 18
   }
 }
