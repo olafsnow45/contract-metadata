@@ -1,4 +1,11 @@
 {
+  "0x27054b13b1B798B345b591a4d22e6562d47eA75a": {
+    "name": "AirSwap Token",
+    "logo": "AST.png",
+    "erc20": true,
+    "symbol": "AST",
+    "decimals": 4
+  },
   "0x0D262e5dC4A06a0F1c90cE79C7a60C09DfC884E4": {
     "name": "JET8 Token",
     "logo": "J8T.svg",
@@ -630,13 +637,6 @@
     "logo": "SPANK.png",
     "erc20": true,
     "symbol": "SPANK",
-    "decimals": 18
-  },
-  "0x4a6058666cf1057eaC3CD3A5a614620547559fc9": {
-    "name": "Brickblock",
-    "logo": "Brickblock.svg",
-    "erc20": true,
-    "symbol": "BBK",
     "decimals": 18
   },
   "0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98": {
