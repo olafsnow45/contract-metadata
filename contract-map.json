@@ -1,9 +1,65 @@
 {
+  "0x0D262e5dC4A06a0F1c90cE79C7a60C09DfC884E4": {
+    "name": "JET8 Token",
+    "logo": "J8T.svg",
+    "erc20": true,
+    "symbol": "J8T",
+    "decimals": 8
+  },
+  "0xBC86727E770de68B1060C91f6BB6945c73e10388": {
+    "name": "Ink Protocol",
+    "logo": "ink_protocol.svg",
+    "erc20": true,
+    "symbol": "XNK",
+    "decimals": 18
+  },
+  "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466": {
+    "name": "Aion Network",
+    "logo": "Aion.png",
+    "erc20": true,
+    "symbol": "AION",
+    "decimals": 8
+  },
+  "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8": {
+    "name": "ELY Token",
+    "logo": "ely.png",
+    "erc20": true,
+    "symbol": "ELY",
+    "decimals": 18
+  },
+  "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1": {
+    "name": "PolySwarm Nectar",
+    "logo": "polyswarm_nectar.svg",
+    "erc20": true,
+    "symbol": "NCT",
+    "decimals": 18
+  },
+	"0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD": {
+		"name": "BOX Token",
+		"logo": "box_token.png",
+		"erc20": true,
+		"symbol": "BOX",
+		"decimals": 18
+	},
   "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa": {
     "name": "dutyof.care Token",
     "logo": "dutyof.care-square.png",
     "erc20": true,
     "symbol": "VDOC",
+    "decimals": 18
+  },
+  "0x168296bb09e24A88805CB9c33356536B980D3fC5": {
+    "name": "Rhoc",
+    "logo": "rchain.png",
+    "erc20": true,
+    "symbol": "RHOC",
+    "decimals": 8
+  },
+  "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf": {
+    "name": "DAOstack",
+    "logo": "DAOstack.png",
+    "erc20": true,
+    "symbol": "GEN",
     "decimals": 18
   },
   "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07": {
@@ -37,8 +93,15 @@
   "0x5BC7e5f0Ab8b2E10D2D0a3F21739FCe62459aeF3": {
     "name": "Hut34 Entropy Token",
     "logo": "ENTRP.png",
-    "symbol": "ENTRP",
+    "symbol": "ENTR",
     "erc20": true,
+    "decimals": 18
+  },
+  "0xEBBdf302c940c6bfd49C6b165f457fdb324649bc": {
+    "name": "Hydro",
+    "logo": "hydro.png",
+    "erc20": true,
+    "symbol": "HYDRO",
     "decimals": 18
   },
   "0x2604FA406Be957E542BEb89E6754fCdE6815e83f": {
@@ -55,6 +118,13 @@
     "symbol": "ZRX",
     "decimals": 18
   },
+  "0xB563300A3BAc79FC09B93b6F84CE0d4465A2AC27": {
+    "name": "RedCab",
+    "logo": "redcab.png",
+    "erc20": true,
+    "symbol": "REDC",
+    "decimals": 18
+  },
   "0x957c30aB0426e0C93CD8241E2c60392d08c6aC8e": {
     "name": "Modum Token",
     "logo": "modum.svg",
@@ -69,12 +139,47 @@
     "decimals": 18,
     "symbol": "APPC"
   },
+  "0xdB25f211AB05b1c97D595516F45794528a807ad8": {
+    "name": "STASIS EURS Token",
+    "logo": "stasis-eurs.svg",
+    "erc20": true,
+    "decimals": 2,
+    "symbol": "EURS"
+  },
+  "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F": {
+    "name": "Havven",
+    "logo": "havven.png",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "HAV"
+  },
+  "0x57Ab1E02fEE23774580C119740129eAC7081e9D3": {
+    "name": "nUSD",
+    "logo": "havven_nusd.png",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "NUSD"
+  },
+  "0x0DB8D8b76BC361bAcbB72E2C491E06085A97Ab31": {
+    "name": "IQeon",
+    "logo": "iqeon.svg",
+    "erc20": true,
+    "decimals": 18,
+    "symbol": "IQN"
+  },
   "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d": {
     "name": "Crypto Kitties",
     "logo": "CryptoKitties-Kitty-13733.svg",
     "erc20": true,
     "symbol": "CK",
     "decimals": 0
+  },
+  "0xE477292f1B3268687A29376116B0ED27A9c76170": {
+    "name": "Herocoin",
+    "logo": "herocoin_logo.png",
+    "erc20": true,
+    "symbol": "PLAY",
+    "decimals": 18
   },
   "0x4F4f0Db4de903B88f2B1a2847971E231D54F8fd3": {
     "name": "Geens Platform Token",
@@ -153,6 +258,13 @@
     "symbol": "BCPT",
     "decimals": 18
   },
+  "0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A": {
+    "name": "Sapien Network Token",
+    "logo": "spn.svg",
+    "erc20": true,
+    "symbol": "SPN",
+    "decimals": 6
+  },
   "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0": {
     "name": "Loom Network Token",
     "logo": "loom.svg",
@@ -197,7 +309,7 @@
   },
   "0x5c543e7AE0A1104f78406C340E9C64FD9fCE5170": {
     "name": "vSlice",
-    "logo": "",
+    "logo": "vslice.png",
     "erc20": true,
     "symbol": "vSlice",
     "decimals": 0
@@ -232,7 +344,7 @@
   },
   "0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c": {
     "name": "Edgeless",
-    "logo": "",
+    "logo": "edgeless.jpg",
     "erc20": true,
     "symbol": "EDG",
     "decimals": 0
@@ -260,7 +372,7 @@
   },
   "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B": {
     "name": "Trustcoin",
-    "logo": "",
+    "logo": "trustcoin.jpg",
     "erc20": true,
     "symbol": "TRST",
     "decimals": 6
@@ -287,8 +399,8 @@
     "decimals": 18
   },
   "0x607F4C5BB672230e8672085532f7e901544a7375": {
-    "name": "iEx.ec Network Token",
-    "logo": "rlc.png",
+    "name": "iExec RLC Token",
+    "logo": "rlc.svg",
     "erc20": true,
     "symbol": "RLC",
     "decimals": 9
@@ -312,7 +424,7 @@
     "logo": "DGD.png",
     "erc20": true,
     "symbol": "DGD",
-    "decimals": 0
+    "decimals": 9
   },
   "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2": {
     "name": "Maker",
@@ -349,7 +461,7 @@
     "symbol": "PLU",
     "decimals": 18
   },
-  "0xE94327D07Fc17907b4DB788E5aDf2ed424adDff6": {
+  "0x1985365e9f78359a9B6AD760e32412f4a445E862": {
     "name": "Reputation",
     "logo": "augur_logo.png",
     "erc20": true,
@@ -474,8 +586,57 @@
     "symbol": "ZIL",
     "decimals": 12
   },
+  "0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8": {
+    "name": "BitMartToken",
+    "logo": "bitmart.png",
+    "erc20": true,
+    "symbol": "BMX",
+    "decimals": 18
+  },
   "0x2af47a65da8CD66729b4209C22017d6A5C2d2400": {
     "name": "StandardBounties",
     "logo": "StandardBounties.png"
+  },
+  "0xF03f8D65BaFA598611C3495124093c56e8F638f0": {
+    "name": "Viewly",
+    "logo": "viewly.svg",
+    "erc20": true,
+    "symbol": "VIEW",
+    "decimals": 18
+  },
+  "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
+    "name": "Wrapped Ether",
+    "logo": "weth.png",
+    "erc20": true,
+    "symbol": "WETH",
+    "decimals": 18
+  },
+  "0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265": {
+    "name": "NANJCOIN",
+    "logo": "nanjcoin.svg",
+    "erc20": true,
+    "symbol": "NANJ",
+    "decimals": 8
+  },
+ "0xB6eD7644C69416d67B522e20bC294A9a9B405B31": {
+    "name": "0xBitcoin Token",
+    "logo": "0xbitcoin.png",
+    "erc20": true,
+    "symbol": "0xBTC",
+    "decimals": 8
+  },
+  "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E": {
+    "name": "Status Network Token",
+    "logo": "snt.svg",
+    "erc20": true,
+    "symbol": "SNT",
+    "decimals": 18
+  },
+  "0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98": {
+    "name": "LikeCoin",
+    "logo": "like.svg",
+    "erc20": true,
+    "symbol": "LIKE",
+    "decimals": 18
   }
 }
