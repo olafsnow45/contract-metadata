@@ -13,13 +13,6 @@
     "symbol": "XNK",
     "decimals": 18
   },
-  "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466": {
-    "name": "Aion Network",
-    "logo": "Aion.png",
-    "erc20": true,
-    "symbol": "AION",
-    "decimals": 8
-  },
   "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8": {
     "name": "ELY Token",
     "logo": "ely.png",
@@ -311,7 +304,7 @@
     "name": "vSlice",
     "logo": "vslice.png",
     "erc20": true,
-    "symbol": "vSlice",
+    "symbol": "VSL",
     "decimals": 0
   },
   "0xFf3519eeeEA3e76F1F699CCcE5E23ee0bdDa41aC": {
@@ -630,6 +623,13 @@
     "logo": "snt.svg",
     "erc20": true,
     "symbol": "SNT",
+    "decimals": 18
+  },
+  "0x42d6622deCe394b54999Fbd73D108123806f6a18": {
+    "name": "SPANK",
+    "logo": "SPANK.png",
+    "erc20": true,
+    "symbol": "SPANK",
     "decimals": 18
   },
   "0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98": {
