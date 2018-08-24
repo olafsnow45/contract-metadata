@@ -83,6 +83,13 @@
     "symbol": "OMG",
     "decimals": 18
   },
+  "0x4162178B78D6985480A308B2190EE5517460406D": {
+    "name": "Colu Local Network",
+    "logo": "cln.png",
+    "erc20": true,
+    "symbol": "CLN",
+    "decimals": 18
+  },
   "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC": {
     "name": "Storj",
     "logo": "storj.jpg",
@@ -735,6 +742,13 @@
     "logo": "yggdrash.svg",
     "erc20": true,
     "symbol": "YEED",
+    "decimals": 18
+  },
+  "0x03e3f0c25965f13DbbC58246738C183E27b26a56": {
+    "name": "Disciplina Token",
+    "logo": "disciplina.svg",
+    "erc20": true,
+    "symbol": "DSCP",
     "decimals": 18
   }
 }
