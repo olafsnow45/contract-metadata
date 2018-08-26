@@ -737,18 +737,18 @@
     "symbol": "WTC",
     "decimals": 18
   },
+  "0x419d0d8bdd9af5e606ae2232ed285aff190e711b": {
+    "name": "FunFair",
+    "logo": "fun.svg",
+    "erc20": true,
+    "symbol": "FUN",
+    "decimals": 8
+  },
   "0xcA2796F9F61dc7b238Aab043971e49c6164DF375": {
     "name": "YGGDRASH YEED Token",
     "logo": "yggdrash.svg",
     "erc20": true,
     "symbol": "YEED",
-    "decimals": 18
-  },
-  "0x03e3f0c25965f13DbbC58246738C183E27b26a56": {
-    "name": "Disciplina Token",
-    "logo": "disciplina.svg",
-    "erc20": true,
-    "symbol": "DSCP",
     "decimals": 18
   }
 }
