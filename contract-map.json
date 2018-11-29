@@ -20,18 +20,18 @@
     "symbol": "SWM",
     "decimals": 18
   },
+  "0x6863bE0e7CF7ce860A574760e9020D519a8bDC47": {
+    "name": "On.Live",
+    "logo": "onlive.svg",
+    "erc20": true,
+    "symbol": "ONL",
+    "decimals": 18
+  },
   "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc": {
     "name": "Pareto",
     "logo": "ParetoLogo.png",
     "erc20": true,
     "symbol": "PARETO",
-    "decimals": 18
-  },
-  "0x6251583e7d997df3604bc73b9779196e94a090ce": {
-    "name": "Hercules",
-    "logo": "herc.png",
-    "erc20": true,
-    "symbol": "HERC",
     "decimals": 18
   },
   "0xDDD460bBD9F79847ea08681563e8A9696867210C": {
