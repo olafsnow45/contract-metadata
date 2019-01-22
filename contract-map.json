@@ -1,4 +1,11 @@
 {
+  "0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC": {
+    "name": "MyBit",
+    "logo": "MYB.svg",
+    "erc20": true,
+    "symbol": "MYB",
+    "decimals": 18
+  },
   "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190": {
     "name": "Dether",
     "logo": "dether.svg",
@@ -20,18 +27,18 @@
     "symbol": "SWM",
     "decimals": 18
   },
+  "0x6863bE0e7CF7ce860A574760e9020D519a8bDC47": {
+    "name": "On.Live",
+    "logo": "onlive.svg",
+    "erc20": true,
+    "symbol": "ONL",
+    "decimals": 18
+  },
   "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc": {
     "name": "Pareto",
     "logo": "ParetoLogo.png",
     "erc20": true,
     "symbol": "PARETO",
-    "decimals": 18
-  },
-  "0x6251583e7D997DF3604bc73B9779196e94A090Ce": {
-    "name": "Hercules",
-    "logo": "herc.png",
-    "erc20": true,
-    "symbol": "HERC",
     "decimals": 18
   },
   "0xDDD460bBD9F79847ea08681563e8A9696867210C": {
@@ -231,18 +238,18 @@
     "symbol": "EURS"
   },
   "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F": {
-    "name": "Havven",
-    "logo": "havven.png",
+    "name": "Synthetix Network Token",
+    "logo": "synthetix.svg",
     "erc20": true,
     "decimals": 18,
-    "symbol": "HAV"
+    "symbol": "SNX"
   },
   "0x57Ab1E02fEE23774580C119740129eAC7081e9D3": {
-    "name": "nUSD",
-    "logo": "havven_nusd.png",
+    "name": "sUSD",
+    "logo": "synthetix_susd.svg",
     "erc20": true,
     "decimals": 18,
-    "symbol": "NUSD"
+    "symbol": "SUSD"
   },
   "0x0DB8D8b76BC361bAcbB72E2C491E06085A97Ab31": {
     "name": "IQeon",
@@ -250,6 +257,13 @@
     "erc20": true,
     "decimals": 18,
     "symbol": "IQN"
+  },
+  "0x26E75307Fc0C021472fEb8F727839531F112f317": {
+    "name": "Crypto20",
+    "logo": "c20.svg",
+    "erc20": true,
+    "symbol": "C20",
+    "decimals": 18
   },
   "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d": {
     "name": "Crypto Kitties",
@@ -375,6 +389,13 @@
     "logo": "eos-logo.jpeg",
     "erc20": true,
     "symbol": "EOS",
+    "decimals": 18
+  },
+  "0xdd974D5C2e2928deA5F71b9825b8b646686BD200": {
+    "name": "Kyber Network Crystal",
+    "logo": "kyber.svg",
+    "erc20": true,
+    "symbol": "KNC",
     "decimals": 18
   },
   "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C": {
@@ -538,6 +559,13 @@
     "symbol": "BAT",
     "decimals": 18
   },
+  "0x4D8fc1453a0F359e99c9675954e656D80d996FbF": {
+    "name": "BEE Token",
+    "logo": "bee_token.svg",
+    "erc20": true,
+    "symbol": "BEE",
+    "decimals": 18
+  },
   "0x6810e776880C02933D47DB1b9fc05908e5386b96": {
     "name": "Gnosis Token",
     "logo": "gnosis.svg",
@@ -565,6 +593,13 @@
     "erc20": true,
     "symbol": "RFR",
     "decimals": 4
+  },
+    "0xb0866289e870D2efc282406cF4123Df6E5BcB652": {
+    "name": "NoFakeCoin",
+    "logo": "nfticon.png",
+    "erc20": true,
+    "symbol": "NFC",
+    "decimals": 18
   },
   "0x408e41876cCCDC0F92210600ef50372656052a38": {
     "name": "Republic Protocol",
@@ -711,7 +746,7 @@
   },
   "0xB6eD7644C69416d67B522e20bC294A9a9B405B31": {
     "name": "0xBitcoin Token",
-    "logo": "0xbitcoin.png",
+    "logo": "0xbitcoin.svg",
     "erc20": true,
     "symbol": "0xBTC",
     "decimals": 8
@@ -918,5 +953,26 @@
     "erc20": true,
     "symbol": "STAR",
     "decimals": 18
+  },
+  "0xC17195bde49D70CefCF8A9F2ee1759FFC27BF0B1": {
+    "name": "Groocoin",
+    "logo": "groo.png",
+    "erc20": true,
+    "symbol": "GROO",
+    "decimals": 18
+  },
+  "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098": {
+    "name": "Santiment",
+    "logo": "santiment.svg",
+    "erc20": true,
+    "symbol": "SAN",
+    "decimals": 18
+  },
+  "0xFBeef911Dc5821886e1dda71586d90eD28174B7d": {
+    "name": "KnownOrigin",
+    "logo": "knownorigin.svg",
+    "erc20": true,
+    "symbol": "KODA",
+    "decimals": 0
   }
 }
