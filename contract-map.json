@@ -1031,26 +1031,11 @@
     "symbol": "KODA",
     "decimals": 0
   },
-  "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26": {
-    "name": "Origin Token",
-    "logo": "originprotocol.png",
+  "0x14C926F2290044B647e1Bf2072e67B495eff1905": {
+    "name": "Bethereum",
+    "logo": "bether.jpg",
     "erc20": true,
-    "symbol": "OGN",
+    "symbol": "BETHER",
     "decimals": 18
-  },
-  "0x819Bb9964B6eBF52361F1ae42CF4831B921510f9": {
-    "name": "Origin Marketplace",
-    "logo": "originprotocol.png",
-    "erc20": false
-  },
-  "0x3dDb21eff50640aF57bcea41374001aFF245Bf28": {
-    "name": "Origin Marketplace",
-    "logo": "originprotocol.png",
-    "erc20": false
-  },
-  "0x8Ac16c08105DE55A02E2b7462b1EeC6085fA4d86": {
-    "name": "Origin Identity",
-    "logo": "originprotocol.png",
-    "erc20": false
   }
 }
