@@ -427,9 +427,9 @@
     "symbol": "GEE",
     "decimals": 8
   },
-  "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892": {
+  "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1": {
     "name": "Melon",
-    "logo": "mln.jpg",
+    "logo": "MLNSymbol.png",
     "erc20": true,
     "symbol": "MLN",
     "decimals": 18
@@ -1431,6 +1431,13 @@
     "logo": "LRC.svg",
     "erc20": true,
     "symbol": "LRC",
+    "decimals": 18
+  },
+  "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6": {
+    "name": "Raiden Network Token",
+    "logo": "raiden.svg",
+    "erc20": true,
+    "symbol": "RDN",
     "decimals": 18
   }
 }
