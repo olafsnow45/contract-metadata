@@ -1,4 +1,11 @@
 {
+  "0x06af07097c9eeb7fd685c692751d5c66db49c215": {
+    "name": "CHAI",
+    "logo": "CHAI.svg",
+    "erc20": true,
+    "symbol": "CHAI",
+    "decimals": 18
+  },
   "0x5f778ec4B31a506c1Dfd8b06F131E9B451a61D39": {
     "name": "UPX Token",
     "logo": "UPX.svg",
@@ -698,6 +705,13 @@
     "logo": "sai.svg",
     "erc20": true,
     "symbol": "SAI",
+    "decimals": 18
+  },
+  "0x6B175474E89094C44Da98b954EedeAC495271d0F": {
+    "name": "Dai Stablecoin",
+    "logo": "new-dai.svg",
+    "erc20": true,
+    "symbol": "DAI",
     "decimals": 18
   },
   "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428": {
