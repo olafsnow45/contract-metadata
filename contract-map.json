@@ -34,6 +34,13 @@
     "symbol": "CHAI",
     "decimals": 18
   },
+  "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828": {
+    "name": "UMA",
+    "logo": "UMA.png",
+    "erc20": true,
+    "symbol": "UMA",
+    "decimals": 18
+  },
   "0x5f778ec4B31a506c1Dfd8b06F131E9B451a61D39": {
     "name": "UPX Token",
     "logo": "UPX.svg",
@@ -1460,6 +1467,13 @@
     "erc721": true,
     "symbol": "SU",
     "decimals": 0
+  },
+  "0xD0a4b8946Cb52f0661273bfbC6fD0E0C75Fc6433": {
+    "name": "Storm Token",
+    "logo": "storm.svg",
+    "erc20": true,
+    "symbol": "STORM",
+    "decimals": 18
   },
   "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0": {
     "name": "Matic Network Token",
